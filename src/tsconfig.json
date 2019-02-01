@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "lib": ["dom", "es6"],
+    "noEmitOnError": true,
+    "module": "commonjs",
+    "target": "ES5",
+    "sourceMap": true,
+    "outDir": "../lib"
+  }
+}
