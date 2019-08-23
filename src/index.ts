@@ -17,7 +17,7 @@
 
 import * as base from '@jupyter-widgets/base';
 import * as controls from '@jupyter-widgets/controls';
-import * as output from '@jupyter-widgets/output';
+import * as output from './outputs';
 
 const widgets = {};
 
